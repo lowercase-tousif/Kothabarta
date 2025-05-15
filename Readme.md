@@ -53,7 +53,35 @@
     ├── Readme.md
     └── kothabarta.py
 ```
-                
+
+## 🔧 Installation & Setup
+
+1. **Clone the repository**
+
+```bash
+	git clone https://github.com/lowercase-tousif/kothabarta.git
+	cd kothabarta
+```
+
+2. **Create virtual environment & install dependencies**
+```bash
+	python -m venv venv
+	source venv/bin/activate  # On Windows: venv\Scripts\activate
+	pip install -r requirements.txt
+```
+3. **Run the application**
+```bash
+	on windows:
+	python kothabarta.py
+
+	on ubuntu or other distros:
+	python3 kothabarta.py
+```
+4. **Visit the url**
+```plaintext
+	Then visit `http://127.0.0.1:5000` in your browser.
+	your friend needs open the url too
+```
 
 
 
