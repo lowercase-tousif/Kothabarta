@@ -22,6 +22,40 @@
  - Frontend: HTML, CSS, JavaScript, used Tailwind Css also
  - Realtime Engine: WebSocket via SocketIO
 
+## 📁 Project Structure
+
+```bash
+└── Kothabarta/
+    ├── app/
+    │   ├── controller/
+    │   │   ├── user_controller.py
+    │   │   └── chat_controller.py
+    │   │  
+    │   ├── routes/
+    │   │   ├── default_route.py
+    │   │   ├── user_route.py
+    │   │   └── chat_route.py
+    │   │  
+    │   ├── templates/
+    │   │   ├── index.html
+    │   │   ├── chat.html
+    │   │   └── base.html
+    │   │  
+    │   ├── static/
+    │   │   ├── css/
+    │   │   │   └── style.css
+    │   │   └── js/
+    │   │       └── chat.js
+    │   │  
+    │   └── __init__.py
+    ├── .env
+    ├── requirements.txt
+    ├── Readme.md
+    └── kothabarta.py
+```
+                
+
+
 
 
 
