@@ -54,6 +54,9 @@
     └── kothabarta.py
 ```
 
+## Data Flow Diagram ( Just a Beginner Though ) 
+
+
 ## 🔧 Installation & Setup
 
 1. **Clone the repository**
@@ -84,6 +87,9 @@
 ```
 
 
+## Data Flow Diagram ( Beginner Don't know if it's okay or not)
 
+
+![enter image description here](https://media-hosting.imagekit.io/965717b7068f46c9/Screenshot%20from%202025-05-15%2015-11-35.png?Expires=1841908347&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=WlpViLx5n2E1YoEv6KscCeOP~mSCqaIPfDK2XSdQMsPnckRwwaNCngUGO5zYvNhVf8DyXrt6TjvIs7gJGwbRVhy0Y-I7WhXknR~LtV4aA3L-DQWyQFD3Wl8QNuGrYyX7n0wHa-MJReqL9OoRC3dTtvWNApntvVZ8Gvfck3~0Kh9UmB0Qkp-q4zGxttyqLIRD0ybu3jq7uMn5Uqz3sTkv5VwAZoeFPbdSsSf2yU-mrR2g1z5rnmPirj4V0RaCc2TEs6njNJBe59Re4TkA4iaYWG1OCnvL0UB4qvzPIgiAIQBan1qlT26TNQPNEb-k4aH6PLORg4xkhi8G8Y0lew4KJw__)
 
 
